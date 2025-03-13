@@ -18,7 +18,7 @@ To use this plugin, you need:
 
 ## Installation
 1. **Download the Plugin**:
-   - Grab the latest `.dll` from the [Releases](https://github.com/qazlll456/cs2-HelloWorldPlugin-from-qazlll456/releases) section (once available).
+   - Grab the latest `.dll` from the [Releases](https://github.com/qazlll456/cs2-HelloWorldPlugin-from-qazlll456/releases) section.
    - Or clone this repository and build it yourself using `dotnet build`.
 
 2. **Install on Your Server**:
