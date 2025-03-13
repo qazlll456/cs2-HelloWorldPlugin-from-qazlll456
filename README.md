@@ -48,8 +48,10 @@ Here’s a screenshot of the plugin in action:
 4. Find the compiled files in `bin/Debug/net8.0/`.
 
 ## Support the Project
-If you find this plugin helpful and want to support its development, 
+If you find this plugin helpful and want to support its development,
+
 consider donating via my Streamlabs tipping page: [Donate here](https://streamlabs.com/BKCqazlll456/tip). 
+
 Your support is greatly appreciated!
 
 ## License
