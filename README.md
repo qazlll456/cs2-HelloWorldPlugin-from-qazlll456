@@ -37,6 +37,7 @@ To use this plugin, you need:
 ## Screenshots
 Here’s a screenshot of the plugin in action:
 ![Hello World Plugin Screenshot](helloworld picture.png)
+https://github.com/qazlll456/cs2-HelloWorldPlugin-from-qazlll456/blob/main/helloworld%20picture.png?raw=true
 
 ## Building from Source
 1. Ensure you have the [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) installed.
