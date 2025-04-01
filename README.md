@@ -10,10 +10,11 @@ This plugin adds basic command functionality to your CS2 server using the Counte
 - **Author**: qazlll456 from HK with xAI assistance
 - **Description**: A simple plugin that supports the console command `css_hello` and the chat command `!hello`.
 
-- ## Support
-If you enjoy this plugin, consider supporting my work!  
-Money, Steam games or any value is also welcome
-[Donate - streamlabs, paypal](https://streamlabs.com/BKCqazlll456/tip)
+## Donate
+If you enjoy this plugin or find it useful, consider supporting me with a donation! Every bit helps me keep developing.
+- **Ko-fi**: [Support on Ko-fi](https://ko-fi.com/qazlll456)
+- **Patreon**: [Become a Patron](https://www.patreon.com/c/qazlll456)
+- **Streamlabs**: [Tip via Streamlabs](https://streamlabs.com/BKCqazlll456/tip)
 
 ## Requirements
 To use this plugin, you need:
