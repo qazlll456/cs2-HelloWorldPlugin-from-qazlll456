@@ -11,7 +11,8 @@ This plugin adds basic command functionality to your CS2 server using the Counte
 - **Description**: A simple plugin that supports the console command `css_hello` and the chat command `!hello`.
 
 ## Donate
-If you enjoy this plugin or find it useful, consider supporting me with a donation! Every bit helps me keep developing.
+If you enjoy it and find it helpful, consider donating to me! Every bit helps me keep developing.
+Money, Steam games, or any valuable contribution is welcome.
 - **Ko-fi**: [Support on Ko-fi](https://ko-fi.com/qazlll456)
 - **Patreon**: [Become a Patron](https://www.patreon.com/c/qazlll456)
 - **Streamlabs**: [Tip via Streamlabs](https://streamlabs.com/BKCqazlll456/tip)
